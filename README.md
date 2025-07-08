@@ -132,7 +132,8 @@ hr{
 ```
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/35210357-56b2-47c0-a680-a791b4f8959b)
+
 
 ## Result:
 A visually appealing profile card that demonstrates the use of background color, typography, spacing, and layout alignment techniques is designed.
